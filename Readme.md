@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Костя Бахтин](https://up.htmlacademy.ru/htmlcss/20/user/137100).
-* Наставник: `Роман Коробейников`.
+* Наставник: [Роман Коробейников](https://htmlacademy.ru/profile/rkorobeynikov).
 
 ---
 
